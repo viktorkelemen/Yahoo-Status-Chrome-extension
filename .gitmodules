@@ -1,0 +1,3 @@
+[submodule "yahoo-identity-api"]
+	path = yahoo-identity-api
+	url = git@github.com:yikulju/yahoo-identity-api.git
